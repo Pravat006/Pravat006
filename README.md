@@ -50,7 +50,7 @@
 <hr>
 <h2 align="left">🔭How to reach me</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/pravat-behera" target="blank">
+  <a href="https://www.linkedin.com/in/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:beherapravat301@gmail.com">
