@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 I am a Computer Science student passionate about Full Stack Web Development. I love creating web applications that are both functional and visually appealing. Currently, I am honing my skills in:🚀</p>
+<p align="left">🚀 I am a Computer Science student passionate about Full Stack Web Development. I love creating web applications that are both functional and visually appealing. Currently, I am h[...]  
 
 ###
 
@@ -34,6 +34,16 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=socketio" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
@@ -48,6 +58,17 @@
 
 <p align="left">👉🏿Building dynamic and responsive web application<br>👉🏿Exploring advance features of React.js<br>👉🏿Currently working on a fullstack ecommerce project</p>
 <hr>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pravat006&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pravat006&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravat006&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<hr>
+
 <h2 align="left">🔭How to reach me</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/pravat-behera-1339ba302" target="blank">
@@ -59,6 +80,6 @@
 </div>
 <hr>
 
-<p align="left">⭐️ **Fun Fact:** Code is like humor. When you have to explain it, it’s bad. 😄</p>
+<p align="left">⭐️ **Fun Fact:** Code is like humor. When you have to explain it, it's bad. 😄</p>
 
 ###
