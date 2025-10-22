@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">👉🏿Building dynamic and responsive web application<br>👉🏿Exploring advance features of React.js<br>👉🏿Currently working on a fullstack ecommerce project</p>
+<p align="left">👉🏿Building dynamic and responsive web application<br>👉🏿Exploring advance features of Backend Development<br>👉🏿Currently working on a fullstack g-drive like platform</p>
 <hr>
 
 ## 📊 GitHub Stats
