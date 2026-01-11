@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Pravat%20Behera&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50" alt="Header" />
 </div>
 
-<h2 align="center">Hi 👋 there , I'am Pravat , from my own 127.0.0.1 💻</h2>
+<h2 align="center">Hi 👋 there, I'm Pravat, from my own 127.0.0.1 💻</h2>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -39,12 +39,81 @@
 <hr/>
 
 <h2 align="center">🛠️ Tech Stack</h2>
-
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,python,git,github,postman,mongodb,mysql,postgres,prisma,docker&perline=9&theme=dark" />
-  </a>
+  <table style="width:100%;max-width:700px;border-collapse:collapse;table-layout:fixed;">
+    <tr>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="36" /><br />JavaScript
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="36" /><br />TypeScript
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" /><br />Python
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="36" /><br />C++
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="36" /><br />Java
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="36" /><br />REST
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="36" /><br />PRETTIER
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="36" /><br />React
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://skillicons.dev/icons?i=next" width="36" /><br />Next.js
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://skillicons.dev/icons?i=html" width="36" /><br />HTML5
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="36" /><br />Tailwind CSS
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="36" /><br />Redux
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://skillicons.dev/icons?i=vite" width="36" /><br />Vite
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="36" /><br />Github
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="36" /><br />Node.js
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://skillicons.dev/icons?i=express" width="36" /><br />Express
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="36" /><br />MongoDB
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://skillicons.dev/icons?i=postgres" width="36" /><br />PostgreSQL
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="36" /><br />Docker
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://skillicons.dev/icons?i=git" width="36" /><br />Git
+      </td>
+      <td align="center" style="background-color:#ffffff;padding:6px;">
+        <img src="https://skillicons.dev/icons?i=postman" width="36" /><br />Postman
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 
 <br/>
 
